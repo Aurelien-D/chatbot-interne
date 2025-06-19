@@ -1,0 +1,5 @@
+# Ignorer les dépendances Node.js
+node_modules/
+
+# Ignorer les variables d'environnement (contient des secrets)
+.env
